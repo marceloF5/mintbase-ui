@@ -57,6 +57,16 @@ import playIcon from './assets/play.svg'
 import pauseIcon from './assets/pause.svg'
 import downloadIcon from './assets/download.svg'
 import eyeIcon from './assets/eye.svg'
+import apollo42DarkBadgeIcon from './assets/apollo42_badge_dark.svg'
+import apollo42LightBadgeIcon from './assets/apollo42_badge_dark.svg'
+import fewFarDarkBadgeIcon from './assets/fewfar_badge_dark.svg'
+import fewFarLightBadgeIcon from './assets/fewfar_badge_light.svg'
+import parasLightBadgeIcon from './assets/paras_badge_light.svg'
+import parasDarkBadgeIcon from './assets/paras_badge_dark.svg'
+import satoriLightBadgeIcon from './assets/satori_badge_light.svg'
+import satoriDarkBadgeIcon from './assets/satori_badge_dark.svg'
+import tenkLightBadgeIcon from './assets/tenk_badge_light.svg'
+import tenkDarkBadgeIcon from './assets/tenk_badge_dark.svg'
 import imageNotSupportedIcon from './assets/image_not_supported.svg'
 import mintbaseDarkBadgeIcon from './assets/mintbase_dark_badge.svg'
 import mintbaseLightBadgeIcon from './assets/mintbase_light_badge.svg'
@@ -126,6 +136,16 @@ const customIcons: { [key: string]: string } = {
   [EIconName.IMAGE_NOT_SUPPORTED]: imageNotSupportedIcon,
   [EIconName.MINTBASE_DARK_BADGE]: mintbaseDarkBadgeIcon,
   [EIconName.MINTBASE_LIGHT_BADGE]: mintbaseLightBadgeIcon,
+  [EIconName.APOLLO42_DARK_BADGE]: apollo42DarkBadgeIcon,
+  [EIconName.APOLLO42_LIGHT_BADGE]: apollo42LightBadgeIcon,
+  [EIconName.FEWFAR_DARK_BADGE]: fewFarDarkBadgeIcon,
+  [EIconName.FEWFAR_LIGHT_BADGE]: fewFarLightBadgeIcon,
+  [EIconName.PARAS_DARK_BADGE]: parasDarkBadgeIcon,
+  [EIconName.PARAS_LIGHT_BADGE]: parasLightBadgeIcon,
+  [EIconName.SATORI_DARK_BADGE]: satoriDarkBadgeIcon,
+  [EIconName.SATORI_LIGHT_BADGE]: satoriLightBadgeIcon,
+  [EIconName.TENK_DARK_BADGE]: tenkDarkBadgeIcon,
+  [EIconName.TENK_LIGHT_BADGE]: tenkLightBadgeIcon,
   [EIconName.NONE]: '',
 }
 
